@@ -3,4 +3,5 @@
 node_modules
 test*.js
 .mnemonic
-.infuraUrl
+.ropsten.infuraUrl
+.rinkeby.infuraUrl
